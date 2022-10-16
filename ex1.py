@@ -39,4 +39,4 @@ def first_list(list):
 
 first_list(list)
 odd_num = sum([n for i, n in enumerate(list) if i % 2])
-print(f'Сумма чисел на нечетных позициях равна {odd_num
+print(f'Сумма чисел на нечетных позициях равна {odd_num}')
